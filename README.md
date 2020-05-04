@@ -5,6 +5,6 @@ This a notes application made with Javascript which has basic functions like-
 * Allows to delete completed tasks.
 * Allows to list all the present taks.
 
-This uses np packages-
+This uses npm packages-
 * chalk
 * yargs
