@@ -1,9 +1,9 @@
 # Notes_App
 
-This a notes application made with Javascript which has basic functions like-
+This notes application is made with Javascript and has primary functions such as-
 * Allows you to adds a new task (preventing addition of duplicates).
-* Allows to delete completed tasks.
-* Allows to list all the present taks.
+* Allows deleting completed tasks.
+* Allows listing all the present tasks.
 
 This uses npm packages-
 * chalk
